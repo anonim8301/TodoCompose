@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TodoCompose</string>
+
+    <string name="add_button">Add button</string>
+    <string name="sort_action">Sort Tasks</string>
+    <string name="deleteAll_action">Delete All</string>
+    <string name="search_action">Search Tasks</string>
+    <string name="close_Icon">Search Tasks</string>
+    <string name="list_app_bar_text">Tasks</string>
+    <string name="search_app_bar_placeholder">Search</string>
+    <string name="sad_face_icon_text">Sad face icon</string>
+    <string name="no_tasks_found">No Tasks Found.</string>
+
+    <string name="new_task_appbar_text">New Task</string>
+    <string name="tasks_appbar_back_action">Back Action Icon</string>
+    <string name="tasks_appbar_delete_action">Delete Action Icon</string>
+    <string name="tasks_appbar_close_action">Close Action Icon</string>
+    <string name="tasks_appbar_update_action">Update Action Icon</string>
+    <string name="tasks_appbar_add_action">Add Action Icon</string>
+
+    <string name="dropdown_arrow">Arrow DropDown Icon</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="delete_task">Remove \'%1$s\'</string>
+    <string name="delete_task_confirmation">Are you sure you want to remove \'%1$s\'? </string>
+
+    <string name="delete_all_tasks">Remove all tasks</string>
+    <string name="delete_all_task_confirmation">Are you sure you want to remove all tasks? </string>
+
+    <string name="splash_screen_icon">Splash Screen Icon</string>
+
+</resources>
